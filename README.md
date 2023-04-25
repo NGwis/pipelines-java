@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/FabianWissing/Test/_apis/build/status%2FNGwis.pipelines-java?branchName=main)](https://dev.azure.com/FabianWissing/Test/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
